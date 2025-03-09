@@ -5,17 +5,25 @@ A backend project that automates interactions with the Internshala website using
 
 # Table of Contents
 Project Overview
-Features
-Tech Stack
-Setup and Installation
-Usage
-Folder Structure
-Contributing
-License
-Project Overview
-The Internshala Automation project is designed to streamline interactions with the Internshala website. By leveraging Puppeteer, this project automates tasks such as logging in, searching for specific internships or jobs, and extracting relevant data.
 
 Features
+
+Tech Stack
+
+Setup and Installation
+
+Usage
+
+Folder Structure
+
+Contributing
+
+License
+
+# Project Overview
+The Internshala Automation project is designed to streamline interactions with the Internshala website. By leveraging Puppeteer, this project automates tasks such as logging in, searching for specific internships or jobs, and extracting relevant data.
+
+# Features
 Automated login to Internshala with user-provided credentials
 Programmatic search for internships and jobs based on filters
 Extraction of internship/job details, such as title, company, location, and stipend
@@ -33,7 +41,7 @@ Clone the repository
 git clone https://github.com/yourusername/internshala-automation.git
 cd internshala-automation
 
-2. **Install dependencies**
+# Install dependencies
 
    ```bash
    npm install
