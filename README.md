@@ -29,15 +29,15 @@ Programmatic search for internships and jobs based on filters
 Extraction of internship/job details, such as title, company, location, and stipend
 Saves results in a structured format (e.g., JSON or CSV)
 Configurable to meet specific data extraction needs
-Tech Stack
+# Tech Stack
 Node.js: Runtime environment for backend
 Puppeteer: Headless browser automation library
-Setup and Installation
-Prerequisites
+# Setup and Installation
+# Prerequisites
 Node.js (version 14.x or later)
 npm (comes with Node.js)
-Installation Steps
-Clone the repository
+# Installation Steps
+ Clone the repository
 git clone https://github.com/yourusername/internshala-automation.git
 cd internshala-automation
 
