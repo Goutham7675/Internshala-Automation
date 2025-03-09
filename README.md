@@ -3,7 +3,7 @@
 Internshala Automation
 A backend project that automates interactions with the Internshala website using Puppeteer. This project enables automated login, job/internship searches, and data extraction, making it easier to manage tasks on Internshala through an automated backend service.
 
-Table of Contents
+# Table of Contents
 Project Overview
 Features
 Tech Stack
