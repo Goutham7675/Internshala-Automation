@@ -6,16 +6,19 @@ A backend project that automates interactions with the Internshala website using
 # Table of Contents
 [Project Overview
 ](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+
 [Features
 ](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+
 [Tech Stack
 ](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+
 [Setup and Installation
 ](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
-Usahttps://github.com/Goutham7675/Internshala-Automation/edit/main/README.mdge
 
 [Folder Structure
 ](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+
 [Contributing
 ](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
 
@@ -33,16 +36,17 @@ Node.js: Runtime environment for backend
 Puppeteer: Headless browser automation library
 # Setup and Installation
 ## Prerequisites
-Node.js (version 14.x or later)
+[Node.js](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md) (version 14.x or later)
 
-npm (comes with Node.js)
+[npm](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md) (comes with Node.js)
+
 # Installation Steps
-## Clone the repository
-git clone https://github.com/yourusername/internshala-automation.git
+1. **Clone the repository**
+   git clone https://github.com/yourusername/internshala-automation.git
 
 cd internshala-automation
 
-# Install dependencies
+2. **Install dependencies** 
 
    ```bash
    npm install
