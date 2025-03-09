@@ -4,21 +4,20 @@ Internshala Automation
 A backend project that automates interactions with the Internshala website using Puppeteer. This project enables automated login, job/internship searches, and data extraction, making it easier to manage tasks on Internshala through an automated backend service.
 
 # Table of Contents
-Project Overview
+[Project Overview
+](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+[Features
+](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+[Tech Stack
+](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+[Setup and Installation
+](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+Usahttps://github.com/Goutham7675/Internshala-Automation/edit/main/README.mdge
 
-Features
-
-Tech Stack
-
-Setup and Installation
-
-Usage
-
-Folder Structure
-
-Contributing
-
-License
+[Folder Structure
+](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+[Contributing
+](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
 
 # Project Overview
 The Internshala Automation project is designed to streamline interactions with the Internshala website. By leveraging Puppeteer, this project automates tasks such as logging in, searching for specific internships or jobs, and extracting relevant data.
