@@ -33,12 +33,14 @@ Configurable to meet specific data extraction needs
 Node.js: Runtime environment for backend
 Puppeteer: Headless browser automation library
 # Setup and Installation
-# Prerequisites
+## Prerequisites
 Node.js (version 14.x or later)
+
 npm (comes with Node.js)
 # Installation Steps
- Clone the repository
+## Clone the repository
 git clone https://github.com/yourusername/internshala-automation.git
+
 cd internshala-automation
 
 # Install dependencies
@@ -95,8 +97,5 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
