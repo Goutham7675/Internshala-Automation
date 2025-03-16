@@ -1,52 +1,53 @@
-# Internshala-Automation
- 
-Internshala Automation
-A backend project that automates interactions with the Internshala website using Puppeteer. This project enables automated login, job/internship searches, and data extraction, making it easier to manage tasks on Internshala through an automated backend service.
 
-# Table of Contents
-[Project Overview
-](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+# Internshala Automation
 
-[Features
-](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+A backend project that automates interactions with the [Internshala](https://internshala.com/) website using Puppeteer. This project enables automated login, job/internship searches, and data extraction, making it easier to manage tasks on Internshala through an automated backend service.
 
-[Tech Stack
-](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+## Table of Contents
 
-[Setup and Installation
-](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-[Folder Structure
-](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+## Project Overview
 
-[Contributing
-](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md)
+The **Internshala Automation** project is designed to streamline interactions with the Internshala website. By leveraging **Puppeteer**, this project automates tasks such as logging in, searching for specific internships or jobs, and extracting relevant data.
 
-# Project Overview
-The Internshala Automation project is designed to streamline interactions with the Internshala website. By leveraging Puppeteer, this project automates tasks such as logging in, searching for specific internships or jobs, and extracting relevant data.
+## Features
 
-# Features
-Automated login to Internshala with user-provided credentials
-Programmatic search for internships and jobs based on filters
-Extraction of internship/job details, such as title, company, location, and stipend
-Saves results in a structured format (e.g., JSON or CSV)
-Configurable to meet specific data extraction needs
-# Tech Stack
-Node.js: Runtime environment for backend
-Puppeteer: Headless browser automation library
-# Setup and Installation
-## Prerequisites
-[Node.js](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md) (version 14.x or later)
+- Automated login to Internshala with user-provided credentials
+- Programmatic search for internships and jobs based on filters
+- Extraction of internship/job details, such as title, company, location, and stipend
+- Saves results in a structured format (e.g., JSON or CSV)
+- Configurable to meet specific data extraction needs
 
-[npm](https://github.com/Goutham7675/Internshala-Automation/edit/main/README.md) (comes with Node.js)
+## Tech Stack
 
-# Installation Steps
+- **Node.js**: Runtime environment for backend
+- **Puppeteer**: Headless browser automation library
+
+## Setup and Installation
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/en/) (version 14.x or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation Steps
+
 1. **Clone the repository**
+   ```bash
    git clone https://github.com/yourusername/internshala-automation.git
+   cd internshala-automation
+   ```
+````
 
-cd internshala-automation
-
-2. **Install dependencies** 
+2. **Install dependencies**
 
    ```bash
    npm install
@@ -100,5 +101,8 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch
 5. Open a pull request
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
